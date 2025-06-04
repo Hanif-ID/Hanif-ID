@@ -3,7 +3,7 @@
 
 ![One Piece](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx3YWs3ZHR6cm1ieW4xb25kZmF1OTQwb2xvcjV6cXVtOWFxZzZyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12mRllHWXpt4M8/giphy.gif)
 
-⛵ I'm a web developer and **One Piece fanatic** sailing through the Grand Line of code.  
+⛵ I'm a fullstack developer and **One Piece fanatic** sailing through the Grand Line of code.  
 My passion for programming is as strong as Luffy's will to become the Pirate King! 🏴‍☠️
 
 ---
