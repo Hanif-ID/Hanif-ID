@@ -1,4 +1,4 @@
-
+![Header](img/badge-hanif.png)
 ### 🏴‍☠️ Ahoy! I'm Hanif 👋
 
 ![One Piece](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx3YWs3ZHR6cm1ieW4xb25kZmF1OTQwb2xvcjV6cXVtOWFxZzZyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12mRllHWXpt4M8/giphy.gif)
