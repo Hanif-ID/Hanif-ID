@@ -30,9 +30,10 @@ My passion for programming is as strong as Luffy's will to become the Pirate Kin
 > _"If you don’t take risks, you can’t create a future."_ – Monkey D. Luffy  
 > _Let's sail together and build awesome stuff!_
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph.svg">
 </picture>
+
+###
