@@ -4,10 +4,14 @@
 
 # Ahoy, aku Hanif! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=440&height=45&lines=Fullstack+Developer;Problem+Solver;Penggemar+One+Piece" alt="Fullstack Developer, Problem Solver, Penggemar One Piece" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=440&height=45&lines=Fullstack+Developer;Problem+Solver;Penggemar+One+Piece" alt="Fullstack Developer, Problem Solver, Penggemar One Piece" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Hanif-ID&label=Profile+Views&color=2f81f7&style=flat" alt="Jumlah kunjungan profil" />
-<a href="https://github.com/Hanif-ID?tab=followers"><img src="https://img.shields.io/github/followers/Hanif-ID?label=Followers&logo=github&color=2f81f7&style=flat" alt="Followers" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hanif-ID&label=Profile+Views&color=2f81f7&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Hanif-ID?tab=followers"><img src="https://img.shields.io/github/followers/Hanif-ID?label=Followers&logo=github&color=2f81f7&style=flat" alt="Followers" /></a>
+</p>
 
 </div>
 
