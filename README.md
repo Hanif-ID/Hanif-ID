@@ -1,61 +1,63 @@
 <div align="center">
-  <img src="img/badge-hanif.png" alt="Hanif Banner" />
-  <br/>
-  <img src="https://profile-counter.glitch.me/Hanif-ID/count.svg?" alt="Profile Views" />
 
-  # 🏴‍☠️ Ahoy, I'm Hanif! 👋
-  
-  **Fullstack Developer | Problem Solver | One Piece Enthusiast**
+<img src="img/badge-hanif.png" alt="Banner Hanif" />
 
-  I navigate the vast seas of software development with the same passion and ambition Luffy has for the Grand Line. Building robust, scalable, and user-centric applications is my ultimate treasure. Let's write some clean code and build awesome stuff! ⛵
-  
-  <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx3YWs3ZHR6cm1ieW4xb25kZmF1OTQwb2xvcjV6cXVtOWFxZzZyeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12mRllHWXpt4M8/giphy.gif" width="300" style="border-radius: 10px;" alt="One Piece GIF"/>
+# Ahoy, aku Hanif! 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=440&height=45&lines=Fullstack+Developer;Problem+Solver;Penggemar+One+Piece" alt="Fullstack Developer, Problem Solver, Penggemar One Piece" />
+
+<img src="https://komarev.com/ghpvc/?username=Hanif-ID&label=Profile+Views&color=2f81f7&style=flat" alt="Jumlah kunjungan profil" />
+<a href="https://github.com/Hanif-ID?tab=followers"><img src="https://img.shields.io/github/followers/Hanif-ID?label=Followers&logo=github&color=2f81f7&style=flat" alt="Followers" /></a>
+
 </div>
 
----
+## 👨‍💻 Tentang Aku
 
-### 🛠️ Tech Arsenal & Tools
-I craft digital experiences using a modern tech stack, constantly expanding my toolkit to tackle new challenges across the stack.
+Fullstack developer yang suka ngerjain aplikasi dari ujung ke ujung: mulai dari desain di Figma, logika di sisi server, sampai database-nya. Targetku simpel: aplikasi yang stabil, gampang dikembangkan, dan enak dipakai.
 
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> </a> &nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/> </a> &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/> </a>
-</p>
+Buatku, ngoding itu mirip berlayar di Grand Line. Rutenya sering nggak jelas, kadang nyasar gara-gara bug, tapi di tiap pulau selalu ada hal baru yang bisa dipelajari.
 
----
+## 🛠️ Tech Stack
 
-### ⚓ My Work Philosophy
-I bring a crew-first mindset and relentless drive to every project I touch. Translating my pirate vibes into professional skills:
+<div align="center">
 
-- 🧠 **Continuous Learner:** Like Robin decoding Poneglyphs, I'm deeply curious and always researching new technologies to improve my craft.
-- ⚔️ **Laser Focus:** Delivering clean, optimized, and maintainable code—striking problems with Zoro's precision.
-- 🤝 **Cool under Pressure:** Keeping the team dynamic steady and positive (cue Brook's chill vibes), even during tight deployment deadlines.
-- 🐛 **Relentless Debugger:** "No bug is invincible." I hunt down edge cases until the system runs flawlessly (unless it's Chopper, he gets a pass 🐾).
+**Bahasa Pemrograman**<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,php" alt="C, C++, C#, Python, Java, PHP" />
 
----
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 
-### 📫 Join My Crew!
-Whether you want to collaborate on an open-source project, talk about software architecture, or just debate the latest One Piece chapter, my DMs are always open.
+**Desain & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma, Git, GitHub" />
 
-- 📧 **Drop me a line:** [hanifpku30@gmail.com](mailto:hanifpku30@gmail.com)
-- 🌍 **Portfolio:** *Setting sail soon...*
+</div>
 
-> *"If you don’t take risks, you can’t create a future."* <br>
+## 🏴‍☠️ Cara Kerjaku
+
+Versi Bajak Laut Topi Jerami:
+
+- 🧠 **Penasaran terus.** Kayak Robin yang nggak berhenti nyari Poneglyph, aku suka ngulik teknologi baru supaya skill-ku nggak jalan di tempat.
+- ⚔️ **Fokus dan presisi.** Aku suka kode yang bersih, efisien, dan gampang dirawat, soalnya yang bakal baca ulang nanti ya aku juga. Tiap masalah kutebas satu per satu, serapi Zoro.
+- 🤝 **Tetap tenang pas deadline mepet.** Tim yang santai kerjanya lebih enak, jadi aku coba jaga suasana tetap positif. Vibes-nya ala Brook.
+- 🐛 **Nggak ada bug yang kebal.** Edge case kuburu sampai sistemnya jalan mulus. Kecuali bug-nya Chopper, yang itu dimaafkan 🐾
+
+## 📫 Yuk, Ngobrol
+
+Terbuka buat kolaborasi proyek open source, diskusi soal arsitektur software, atau sekadar debat chapter One Piece terbaru. Kirim aja pesannya lewat email.
+
+<a href="mailto:hanifpku30@gmail.com"><img src="https://img.shields.io/badge/Email-hanifpku30%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hanif" /></a>
+
+🌍 **Portofolio:** segera berlayar ⛵
+
+> *"Kalau nggak berani ambil risiko, kamu nggak bisa menciptakan masa depan."* <br>
 > — **Monkey D. Luffy**
-
----
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph.svg">
+    <img alt="Grafik kontribusi bergaya Pac-Man" src="https://raw.githubusercontent.com/Hanif-ID/Hanif-ID/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=90&section=footer" width="100%" alt="" />
